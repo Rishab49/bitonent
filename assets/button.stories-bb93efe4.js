@@ -1,0 +1,1 @@
+import{j as t}from"./index-ccb09a3b.js";const e=()=>t("button",{className:"p-4 bg-cyan-400 rounded-sm",children:"Click me"}),n=()=>t(e,{});typeof window<"u"&&window.document&&window.document.createElement&&document.documentElement.setAttribute("data-storyloaded","");export{n as SolidButton};
