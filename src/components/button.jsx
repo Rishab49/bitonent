@@ -1,0 +1,1 @@
+export const SolidButtonElement = () => <button className="p-4 bg-cyan-400 rounded-sm">Click me</button>
